@@ -104,7 +104,7 @@ class ChatScreen extends StatelessWidget {
                     width: myWidth * 0.65,
                     child: const TextField(
                       decoration: InputDecoration.collapsed(
-                          hintText: 'Type Something ....'),
+                          hintText: 'Press Send Button to navigate to Home'),
                     ),
                   ),
                   const Icon(
